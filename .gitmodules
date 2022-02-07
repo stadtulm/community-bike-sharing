@@ -1,3 +1,6 @@
 [submodule "CommunityBikeSharing"]
 	path = CommunityBikeSharing
 	url = https://github.com/DagobertDev/CommunityBikeSharing
+[submodule "App"]
+	path = App
+	url = https://github.com/DagobertDev/CommunityBikeSharing
