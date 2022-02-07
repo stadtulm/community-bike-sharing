@@ -8,10 +8,13 @@ Eine Organisation die Fahrräder innerhalb ihrer Gruppe teilt, kann mit den glei
 
 image::Idee_CBS.png[]
 
-Für die Entwicklung des CBS wird ein eigenständiges Sharing-System bestehend aus Software (Backend, App) und Hardware (Elektronisches Fahrradschloss) entwickelt. Die Übersicht des Systems mit der Funktion der einzelnen Teilsysteme ist im folgenden Bild dargestellt.
+Für die Entwicklung des CBS wird ein eigenständiges Sharing-System bestehend aus link:Software[Software] (Backend, App) und Hardware (Elektronisches Fahrradschloss) entwickelt. Die Übersicht des Systems mit den Funktionen der einzelnen Teilsysteme ist im folgenden Bild dargestellt.
 
 image::Übersicht_CBS.png[]
 
 Unabhängig davon sollen außerdem die anonymisierten Bewegungsdaten der Fahrräder mittels LoRa-fähigem GPS-Tracker gesammelt werden.
 
 Dieses Repository soll eine transparente technische Dokumentation bieten. [red]#*ACHTUNG:  Alle, die diesen Prototypen nachbauen, sind als Hersteller selbst verantwortlich. Bei Inverkehrbringung muss sicher gestellt werden, dass alle geltenden EU-Richtlinien eingehalten werden und eine CE-Kennzeichnung angebracht wird. Die THU haftet nicht für die Herstellung und Inverkehrbringung anderer.*#
+
+- *link:Software[Software]*
+- *link:Hardware[Hardware]*
