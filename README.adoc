@@ -6,6 +6,12 @@ Ein weiteres Ziel von _Zukunftsstadt_ ist die Erweiterung von Mobilitätsangebot
 
 Eine Organisation die Fahrräder innerhalb ihrer Gruppe teilt, kann mit den gleichen eingesetzten finanziellen Mitteln einen größeren Effekt für die Nachhaltigkeit erzielen als mit der Einführung eines offenen Bike Sharings. In vielen Fällen tragen die Gruppe die Kosten für die Fahrräder und/oder übernehmen den Aufwand für deren Unterhaltung. Insbesondere sorgt auch das soziale Regulativ durch die Gruppe für einen besseren Umgang mit den Rädern und damit für geringere Kosten. Die Gruppe kann auch als Team oder im direkten Vergleich der Mitglieder den größeren Ansporn für die Nutzung erzeugen. Darüber hinaus können die Gruppen spezielle Räder einsetzen, die ihren Anforderungen entsprechen (eBike, Lastenrad etc). Mögliche Organisationen, die sich eines CBS bedienen können sind Unternehmen die, um ihre Umweltziele zu erfüllen, die Nutzung der Abteilungsräder intensivieren wollen. Kommunen (Städte, Kreise) ebenso wie lokale bürgerschaftliche Initiativen können das Angebot für alle Nutzergruppen öffnen. Damit verbunden ist es im lokalen Kontext auch interessant Bewegungsdaten zu sammeln, die für die Radwegeplanung genutzt werden können.
 
-Für die Entwicklung des CBS wird ein eigenständiges System bestehend aus Software (Backend, App) und Hardware (Elektronisches Fahrradschloss) entwickelt.
+image::Idee_CBS.png[]
+
+Für die Entwicklung des CBS wird ein eigenständiges Sharing-System bestehend aus Software (Backend, App) und Hardware (Elektronisches Fahrradschloss) entwickelt. Die Übersicht des Systems mit der Funktion der einzelnen Teilsysteme ist im folgenden Bild dargestellt.
+
+image::Übersicht_CBS.png[]
+
+Unabhängig davon sollen außerdem die anonymisierten Bewegungsdaten der Fahrräder mittels LoRa-fähigem GPS-Tracker gesammelt werden.
 
 Dieses Repository soll eine transparente technische Dokumentation bieten. [red]#*ACHTUNG:  Alle, die diesen Prototypen nachbauen, sind als Hersteller selbst verantwortlich. Bei Inverkehrbringung muss sicher gestellt werden, dass alle geltenden EU-Richtlinien eingehalten werden und eine CE-Kennzeichnung angebracht wird. Die THU haftet nicht für die Herstellung und Inverkehrbringung anderer.*#
