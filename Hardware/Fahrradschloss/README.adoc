@@ -1,0 +1,9 @@
+# Elektronisches Fahrradschloss
+
+Die Nutzer sollen zum Absichern der Fahrräder elektronische Schlösser über die App bedienen können. Als durch die App unterstütztes Schloss wurde das link:https://ilockit.bike/Produkt/ilockit-gps/[I LOCK IT der haveltec GmbH] ausgewählt. 
+
+image::ILOCKIT.png[]
+
+Es wird angemerkt, dass hier nicht das im Shop erhältliche Kundenschloss verwendet wurde, sondern eine spezielle B2B-Version mit API-Schnittstelle für alternative Apps. Die API wird hier nicht veröffentlicht. Sollte Interesse an einer Kooperation mit haveltec bestehen, bitte direkt Kontakt aufnehmen. Dieses Schloss verwendet Bluetooth Low Energy für die Kommunikation, das Smartphone muss also zum Öffnen in der Nähe des Schlosses sein. Von haveltec wird außerdem eine Dokumentation für das Schloss bereitgestellt, welche erklärt, welche Entwicklungsschritte für die Steuerung des Schlosses mit einer App notwendig sind. 
+
+- *link:https://github.com/DagobertDev/CommunityBikeSharing[Software]*
